@@ -6,7 +6,7 @@
 /*   By: youngpar <youngseo321@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/06/12 00:59:06 by youngpar          #+#    #+#             */
-/*   Updated: 2021/07/03 19:21:04 by youngpar         ###   ########.fr       */
+/*   Updated: 2021/07/05 12:50:01 by youngpar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 
 # include <stdlib.h>
 # include <unistd.h>
-# include <fcntl.h>
 # include <limits.h>
 
 # ifndef BUFFER_SIZE
